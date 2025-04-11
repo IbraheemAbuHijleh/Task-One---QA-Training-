@@ -13,4 +13,5 @@ and report bugs on Jira  >>
 
 A tests cases was done for this form and it was the first task during the training. I received a very good rating from the person in charge of training.
 ![1](https://github.com/user-attachments/assets/2372c1c3-59dd-4170-a834-417d42a4e6c8)
-![Uploading 2.JPG…]()
+
+![2](https://github.com/user-attachments/assets/afc48f12-6a49-4009-b49d-8c35dd712909)
