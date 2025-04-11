@@ -4,4 +4,4 @@
 
 
 
-A tests cases was done for this form and it was the first task during the training. I received a very good rating from the person in charge of training.(Eng.Khould Team Leader ) 
+A tests cases was done for this form and it was the first task during the training. I received a very good rating from the person in charge of training.
