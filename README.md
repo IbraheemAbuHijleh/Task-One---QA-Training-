@@ -11,7 +11,7 @@ A tests cases was done for this form and it was the first task during the traini
 and report bugs on Jira  >>
 
 
-link in jira Bug #1 : https://abuhijlehibrahim2002-1735538374373.atlassian.net/browse/CU-9?atlOrigin=eyJpIjoiODMyZTRiYWMxMDYyNDM3Y2E4ZjFmZjNjNTkxZDg0MGEiLCJwIjoiaiJ9  
+link in jira Bug #1 : https://abuhijlehibrahim2002-1735538374373.atlassian.net/browse/CU-8
 
 
 link in jira Bug # 2 : https://abuhijlehibrahim2002-1735538374373.atlassian.net/browse/CU-9?atlOrigin=eyJpIjoiZmM4NmMzMjJiZDFlNDVhMGI1YmU4ZGI2NzY5MTdkZjMiLCJwIjoiaiJ9 
